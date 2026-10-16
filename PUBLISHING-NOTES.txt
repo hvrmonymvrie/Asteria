@@ -1,0 +1,7 @@
+Before publishing:
+1. Confirm the no-real-world-value and no-real-money-trading rules match actual community practice.
+2. Ensure moderators can receive and act on privacy/deletion requests; add a dedicated contact method if possible.
+3. Verify host backup retention, dashboard transmissions, and access controls.
+4. The original ZIP did not contain arms.png, so the missing image reference was removed. Add the crest back to both pages only when you have an image file to host.
+5. Publish privacy.html and terms.html alongside style.css at public HTTPS URLs, then put each URL in the Discord Developer Portal.
+6. These are tailored draft policies, not a legal compliance certification.

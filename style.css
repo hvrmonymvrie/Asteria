@@ -1,0 +1,15 @@
+:root{--bg:#0d1630;--card:#14214a;--gold:#d8b45a;--text:#e9ecf5;--muted:#aab3cc}
+@media (prefers-color-scheme: light){:root{--bg:#f6f3ea;--card:#fff;--gold:#8a6a1c;--text:#1c2340;--muted:#4c5470}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 Georgia,"Times New Roman",serif}
+main{max-width:760px;margin:0 auto;padding:40px 16px 64px}
+header{text-align:center;margin-bottom:28px}
+header img{width:84px;height:auto}
+h1{color:var(--gold);font-size:2rem;margin:.4em 0 .1em;letter-spacing:.02em}
+.sub{color:var(--muted);margin:0}
+section{background:var(--card);border:1px solid color-mix(in srgb,var(--gold) 35%,transparent);border-radius:10px;padding:18px 22px;margin:16px 0}
+h2{color:var(--gold);font-size:1.15rem;margin:0 0 .4em}
+ul{padding-left:1.2em;margin:.3em 0}
+li{margin:.25em 0}
+a{color:var(--gold)}
+footer{text-align:center;color:var(--muted);font-size:.9rem;margin-top:28px}
